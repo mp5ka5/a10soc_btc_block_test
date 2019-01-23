@@ -3,7 +3,7 @@ This design demonstrates Bitcoin mining using Intel Arria 10 SoC FPGA. The ARM p
 
 Hash Algorithm
 ------
-### Block Hashing Algorithm
+### [Block Hashing Algorithm](https://en.bitcoin.it/wiki/Block_hashing_algorithm)
 [Wiki](https://en.bitcoin.it/wiki/Block_hashing_algorithm)
 
 Platform
