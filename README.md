@@ -7,7 +7,7 @@ Hash Algorithm
 <br/>
 <br/>
 <br/>
-<br/>
+
 Platform
 ------
 ### [Intel Arria 10 SoC Development Kit](https://www.intel.com/content/www/us/en/programmable/products/boards_and_kits/dev-kits/altera/arria-10-soc-development-kit.html)
