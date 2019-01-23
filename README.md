@@ -1,12 +1,11 @@
 # Bitcoin Block Test Program
 
-## Design
+### Design
 This design demonstrates Bitcoin mining using Intel Arria 10 SoC FPGA. The ARM processor reads block information given by user and completes a pre-computing of hash. The FPGA receives init data and finishes rest of computation with all possible nonces to produce hash blocks. For simplicity, any produced block has 32-bit leading zeros is considered to be valid therefore the corresponding nonce will be collected and sent back to processor. The FPGA performace is XG Hash/sec.
 <br/>
 <br/>
 
-Hash Algorithm
-------
+### Hash Algorithm
 [Block Hashing Algorithm](https://en.bitcoin.it/wiki/Block_hashing_algorithm)
 <br/>
 <br/>
