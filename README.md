@@ -4,13 +4,13 @@ This design demonstrates Bitcoin mining using Intel Arria 10 SoC FPGA. The ARM p
 Hash Algorithm
 ------
 ### [Block Hashing Algorithm](https://en.bitcoin.it/wiki/Block_hashing_algorithm)
-
-
+  
+  
 Platform
 ------
 ### [Intel Arria 10 SoC Development Kit](https://www.intel.com/content/www/us/en/programmable/products/boards_and_kits/dev-kits/altera/arria-10-soc-development-kit.html)
-
-
+  
+  
 HowTo
 ------
 1. Extract the image file and write to a Micro SD card (>=4GB) using dd in linux or Win32DiskImager in windows.
