@@ -27,4 +27,5 @@ HowTo
 
 Result
 ------
+[result_screenshot.png]
 [![](result_screenshot.png)]
