@@ -23,4 +23,4 @@ HowTo
 4. Possible nonce and hash block are reported.
 5. Execute "./a10soc_btc_block_test -h" to see the format of input file.
 
-[](result_screenshot.png.png)
+[![](result_screenshot.png.png)][result]
