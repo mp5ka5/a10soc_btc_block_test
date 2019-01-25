@@ -22,5 +22,9 @@ HowTo
 3. Execute "./a10soc_btc_block_test -f ./demo_files/block_info_file_1.txt"
 4. Possible nonce and hash block are reported.
 5. Execute "./a10soc_btc_block_test -h" to see the format of input file.
+<br/>
+<br/>
 
-[![](result_screenshot.png)][result]
+Result
+------
+[![](result_screenshot.png)]
